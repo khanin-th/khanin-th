@@ -5,9 +5,9 @@
 <a href="mailto:khanin.th.35110@gmail.com" class="button" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Email me" width="50px" > </a>
 </div>
 
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Aviation and Machine Learning 
+- 🌱 I’m currently learning Data Science Diploma offered by Concordia University Continuing Education
+- 💞️ I’m looking to collaborate on anything related to my interest
 - 📫 How to reach me https://khanin-th.github.io/khaninth.github.io/
 
 <!---
